@@ -5,3 +5,11 @@ This repo is a complete guide for anyone starting their journey into the world o
 ## 🚀 What You’ll Learn
 
 ## 🛠️ Who Is This For?
+
+## 🎯 How to Use This Repo
+
+## 👾 Choose your language
+
+## 💻 Choose your path
+
+## 🌟 Why This Repo?
