@@ -44,3 +44,8 @@ Explore multiple programming languages to expand your skill set.
 3. Help resolve bugs or improve the structure of existing code and content.
 4. Contribute exercises, challenges, or real-world project ideas.
 5. Provide links to helpful videos, articles, or books.
+
+## ✨ Getting Started:
+- Fork the repository and create a branch for your contribution.
+- Submit a pull request (PR) with a clear description of your changes.
+- Join discussions in the issues section or propose new ideas.
