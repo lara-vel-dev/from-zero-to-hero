@@ -12,4 +12,4 @@ This repo is a complete guide for anyone starting their journey into the world o
 
 ## 💻 Choose your path
 
-## 🌟 Why This Repo?
+## 🤝 Contribute to This Repository
