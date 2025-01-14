@@ -1,9 +1,11 @@
 <h1 align="center">
-	<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="60" />
+	<a href="">
+		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
 	</a>
  From Zero To Hero
 	<a href="">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt2OGI4eWl1MGxsdnh6djhsbGR4b2tmcGI3dXU5OW13djFxcm8waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="60" />	</a>
+		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
+	</a>
 </h1>
 
 <p align="justify">Welcome to the "From Zero to Hero in Programming" Repository!
