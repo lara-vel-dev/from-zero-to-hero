@@ -1,6 +1,10 @@
-<div align=""center>
-  <h1>From Zero To Hero</h1>
-</div>
+<h1 align="center">
+	<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="60" />
+	</a>
+ 100 Days Of Projects
+	<a href="">
+<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="60" />	</a>
+</h1>
 
 <p align="justify">Welcome to the "From Zero to Hero in Programming" Repository!
 This repo is a complete guide for anyone starting their journey into the world of programming. Whether you're a complete beginner or looking to solidify your fundamentals, this resource is designed to take you step by step from the basics to advanced programming concepts. </p>
