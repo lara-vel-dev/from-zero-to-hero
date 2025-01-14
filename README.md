@@ -1,7 +1,7 @@
 <h1 align="center">
 	<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="60" />
 	</a>
- 100 Days Of Projects
+ From Zero To Hero
 	<a href="">
 <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="60" />	</a>
 </h1>
