@@ -43,6 +43,7 @@ Explore multiple programming languages to expand your skill set.
 
 ## 👾 Choose your language
 - Python
+- JavaScript
 
 ## 💻 Choose your path
 
