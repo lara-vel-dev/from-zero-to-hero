@@ -47,6 +47,7 @@ Explore multiple programming languages to expand your skill set.
 - Golang
 - C
 - C++
+- C#
 
 ## 💻 Choose your path
 
