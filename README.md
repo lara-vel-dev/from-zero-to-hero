@@ -49,6 +49,7 @@ Explore multiple programming languages to expand your skill set.
 - C++
 - C#
 - Java
+- Ruby
 
 ## 💻 Choose your path
 
