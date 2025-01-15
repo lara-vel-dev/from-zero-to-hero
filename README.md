@@ -53,6 +53,7 @@ Explore multiple programming languages to expand your skill set.
 - Rust
 - Swift
 - Kotlin
+- Dart
 
 ## 💻 Choose your path
 
