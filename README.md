@@ -42,6 +42,7 @@ Explore multiple programming languages to expand your skill set.
 ## 🎯 How to Use This Repo
 
 ## 👾 Choose your language
+- Python
 
 ## 💻 Choose your path
 
