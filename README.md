@@ -51,6 +51,7 @@ Explore multiple programming languages to expand your skill set.
 - Java
 - Ruby
 - Rust
+- Swift
 
 ## 💻 Choose your path
 
