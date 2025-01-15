@@ -50,6 +50,7 @@ Explore multiple programming languages to expand your skill set.
 - C#
 - Java
 - Ruby
+- Rust
 
 ## 💻 Choose your path
 
