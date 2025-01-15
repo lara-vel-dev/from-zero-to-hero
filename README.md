@@ -45,6 +45,7 @@ Explore multiple programming languages to expand your skill set.
 - Python
 - JavaScript
 - Golang
+- C
 
 ## 💻 Choose your path
 
