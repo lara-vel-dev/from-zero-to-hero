@@ -50,6 +50,16 @@ Explore the folder for that language to find:
 - Advanced projects.
 - Language-specific tips and tricks.
 
+### Step 2: Choose Your Path
+Go to the 💻 Choose Your Path section and select the career path that excites you.
+Each path includes curated learning materials, hands-on projects, and resources tailored to that focus area.
+
+### Step 3: Follow the Roadmap
+Each language or path folder contains a roadmap that guides you step-by-step, including:
+- Core concepts to master.
+- Recommended tools and libraries.
+- Real-world projects to apply your skills.
+
 ## 👾 Choose your language
 - Python
 - JavaScript
