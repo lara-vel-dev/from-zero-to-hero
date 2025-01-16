@@ -77,6 +77,7 @@ Each language or path folder contains a roadmap that guides you step-by-step, in
 ## 💻 Choose your path
 - Frontend Roadmap
 - Backend Roadmap
+- Mobile Roadmap
 - AI/ML Roadmap
 - Data Science Roadmap
 - Game Dev Roadmap
