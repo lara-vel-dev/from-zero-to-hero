@@ -83,6 +83,14 @@ Each language or path folder contains a roadmap that guides you step-by-step, in
 - Game Dev Roadmap
 - Devops & Cloud Roadmap
 
+## 📚 Resources
+This section provides carefully curated tools, guides, and references to help you learn effectively. Whether you're a beginner or advancing your skills, these resources are here to support your journey.
+- General Programming Resources
+- Essential Tools
+- YouTube Channels
+- Books
+- Interactive Coding Platforms
+
 ## 🤝 Contribute to This Repository
 <p align="justify">Learning is a collaborative journey, and we’re excited to invite you to contribute to this project! Whether you're a beginner, an experienced programmer, or just someone passionate about tech, your contributions are valuable.</p>
 
