@@ -58,6 +58,7 @@ Explore multiple programming languages to expand your skill set.
 ## 💻 Choose your path
 - Frontend Roadmap
 - Backend Roadmap
+- AI/ML Roadmap
 
 ## 🤝 Contribute to This Repository
 <p align="justify">Learning is a collaborative journey, and we’re excited to invite you to contribute to this project! Whether you're a beginner, an experienced programmer, or just someone passionate about tech, your contributions are valuable.</p>
