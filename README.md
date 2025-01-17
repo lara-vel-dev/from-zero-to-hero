@@ -71,7 +71,7 @@ Each language or path folder contains a roadmap that guides you step-by-step, in
 - <a href="">Ruby</a>
 - <a href="">Rust</a>
 - <a href="">Swift</a>
-- Kotlin
+- <a href="">Kotlin</a>
 - Dart
 
 ## 💻 Choose your path
