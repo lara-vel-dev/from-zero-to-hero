@@ -64,8 +64,8 @@ Each language or path folder contains a roadmap that guides you step-by-step, in
 - <a href="">Python</a>
 - <a href="">JavaScript</a>
 - <a href="">Golang</a>
-- C
-- C++
+- <a href="">C</a>
+- <a href="">C++</a>
 - C#
 - Java
 - Ruby
