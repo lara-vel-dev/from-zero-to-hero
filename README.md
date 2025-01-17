@@ -63,7 +63,7 @@ Each language or path folder contains a roadmap that guides you step-by-step, in
 ## 👾 Choose your language
 - <a href="">Python</a>
 - <a href="">JavaScript</a>
-- Golang
+- <a href="">Golang</a>
 - C
 - C++
 - C#
