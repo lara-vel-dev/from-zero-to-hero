@@ -72,7 +72,7 @@ Each language or path folder contains a roadmap that guides you step-by-step, in
 - <a href="">Rust</a>
 - <a href="">Swift</a>
 - <a href="">Kotlin</a>
-- Dart
+- <a href="">Dart</a>
 
 ## 💻 Choose your path
 - Frontend Roadmap
