@@ -69,7 +69,7 @@ Each language or path folder contains a roadmap that guides you step-by-step, in
 - <a href="">C#</a>
 - <a href="">Java</a>
 - <a href="">Ruby</a>
-- Rust
+- <a href="">Rust</a>
 - Swift
 - Kotlin
 - Dart
