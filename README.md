@@ -61,7 +61,7 @@ Each language or path folder contains a roadmap that guides you step-by-step, in
 - Real-world projects to apply your skills.
 
 ## 👾 Choose your language
-- <a href="">Python</a>
+- <a href="https://github.com/lara-vel-dev/Python-From-Zero-To-Hero">Python</a>
 - <a href="">JavaScript</a>
 - <a href="">Golang</a>
 - <a href="">C</a>
